@@ -1,4 +1,5 @@
 const React = require('react');
+const ReactNative = require('react-native');
 const { TextPropTypes, ViewPropTypes,  } = require('deprecated-react-native-prop-types');
 
 const PropTypes = require('prop-types');
